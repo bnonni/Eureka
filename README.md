@@ -2,15 +2,15 @@
 
 Eureka Repo for Development
 
-Product Author / Project Lead: Sifael Ndandala
+### Product Author / Project Lead: Sifael Ndandala
 * [Linkedin](https://www.linkedin.com/in/sifael-ndandala-b9004859/)
 * [Portfolio](http://www.programmingnotes.net/about/)
 
-Contributor: Bryan Nonni
+### Contributor: Bryan Nonni
 * [Linkedin](https://www.linkedin.com/in/bryanwnonni)
 * [Portfolio](https://bryanwnonni.com/)
 
-### Contributions
+#### Contributions
 1. Shiny Exercises
    - [UI Starter](./ShinyExercises/UI_Starter.R)
    - [R-Shiny Dashboard](./ShinyExercises/R_Shiny_Dash.R)
