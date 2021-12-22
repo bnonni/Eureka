@@ -66,7 +66,7 @@ sidebar = dashboardSidebar(
 
 body = dashboardBody(   
   
-        tabItems( tabItem( tabName = 'eureka_info', includeHTML('welcome.html')),
+        tabItems( tabItem( tabName = 'eureka_info', includeHTML('index.html')),
                   tabItem( tabName = "sample_size", uiOutput('sample_size_pages') ),
                   tabItem( tabName = "test_segmentation", uiOutput('test_segementation_page')),
                   tabItem( tabName = "statistical_analysis", uiOutput('statistical_analysis_page')))
